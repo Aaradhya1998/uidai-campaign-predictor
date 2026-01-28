@@ -1,5 +1,7 @@
-
-# uidai-campaign-predictor
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-green)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wCgeuJ7YhgSCcragcpSFtxb1k9NgN5Xk)
+# UIDAI-campaign-predictor
 Predicting effective outreach campaigns using Aadhaar age demographics
 # UIDAI Campaign Predictor 📊
 
