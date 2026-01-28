@@ -53,7 +53,7 @@ campaign would be most effective for a given state.
 ## ▶️ Run the Project
 Open and run the notebook directly in Google Colab:
 
-[Run on Colab]([https://colab.research.google.com/your-colab-link](https://colab.research.google.com/drive/1wCgeuJ7YhgSCcragcpSFtxb1k9NgN5Xk#scrollTo=lXcevWJ4LJ5Y))
+[Run on Colab]([https://colab.research.google.com/drive/1wCgeuJ7YhgSCcragcpSFtxb1k9NgN5Xk#scrollTo=lXcevWJ4LJ5Y])
 
 ---
 
